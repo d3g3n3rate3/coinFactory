@@ -682,7 +682,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
 }
 
 
-contract StarFish is Context, IERC20, Ownable {
+contract contractFrame is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
